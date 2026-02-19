@@ -207,4 +207,12 @@ func _physics_process(delta: float) -> void:
 Here is a video showcasing functionality below:
 [![alt text](image-1.png)](https://youtu.be/m0kDOVS45Ns)
 
+And a video of me using it:
+[![alt text](image-1.png)](https://youtu.be/m0kDOVS45Ns)
 
+## Reflection and Evaluation
+I think we did a good job considering our limited resources. We could have been more prepared, as I recall we did not have enough wires in class, so definitely, we need to get wires. It was a very engaging and rigorous assignment which I was okay with.
+
+### Evaluation
+**Self-Evaluation**: 30pts
+We came to class, completed all tasks and reflected to the best of our abilities.
