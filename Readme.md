@@ -12,11 +12,12 @@ We were given the task of prototyping a game controller using equipment that we 
 ## Design
 After deciding what game to make, we then designed our controller using tinkerCAD. This is our design, made by **Jacob Janowitz**:
 
-![alt text](image.png)
+**Link to video below!**
+[![Video Here!](image.png)](https://youtu.be/nApS27x1zCc)
 
 Our design features a potentiometer in place of our IMU, and uses LEDS to visualize the digital and analog information we are capturing.
 
-[![Video Here!](image.png)](https://youtu.be/nApS27x1zCc)
+
 
 ## Implementation Arduino/C++
 
