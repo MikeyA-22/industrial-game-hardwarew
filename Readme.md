@@ -16,7 +16,8 @@ After deciding what game to make, we then designed our controller using tinkerCA
 
 Our design features a potentiometer in place of our IMU, and uses LEDS to visualize the digital and analog information we are capturing.
 
-<video controls src="Screen Recording 2026-02-18 220151.mp4" title="Wiring design showcase">Here is a video of the wiring simulation</video>
+[![Video Here!](image.png)](https://youtu.be/nApS27x1zCc)
 
 ## Implementation Arduino/C++
+
 
